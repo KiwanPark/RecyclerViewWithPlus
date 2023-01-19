@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerviewWithPlus</string>
+    <string name="add_item">add item</string>
+</resources>
